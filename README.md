@@ -1,5 +1,5 @@
 # Word of the Day Brand Assets
-This is the official **Word of the Day** brand assets repository. This contains vector and raster files for assets used by WOTD. For the Word of the Day code, visit [this repository](https://github.com/gaming-gaming/Word-of-the-Day).
+This is the official **Word of the Day (WOTD)** brand assets repository. This contains vector and raster files for assets used by WOTD. For the Word of the Day code, visit [this repository](https://github.com/gaming-gaming/Word-of-the-Day).
 
 ## License Information
 Unless otherwise stated, all assets here are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
